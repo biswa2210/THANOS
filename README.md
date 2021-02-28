@@ -1,1 +1,1 @@
-# thanos-fancy
+# THANOS-FANCY
