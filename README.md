@@ -13,7 +13,7 @@
 **:heart_eyes:Thanos' fans will love this!!!:heart_eyes:**
 
 
-***LINK : :point_right:https://biswa2210.github.io/BASIC-AVENGERS/.***
+***LINK : :point_right:https://biswa2210.github.io/THANOS/***
 
 ## Purpose :point_down:
 
