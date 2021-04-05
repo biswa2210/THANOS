@@ -21,7 +21,7 @@ It is really easy to use this page. To see images in sliders user has to click o
 ## Importance :point_down:
 Those who want to explore various diffrent interesting facts about Thanos it's nice option for them without searching. For fans as well as new comers of avengers' world can use this page very easily. :supervillain:
 ## Making :point_down:
-I have made this using advance level HTML5, CSS3 and Javascript. I have used sliders, row column concepts for designing. I have used animationns for text, slideshow designing.
+I have made this using advance level HTML5, CSS3 and Javascript. I have used sliders, row column concepts for designing. I have used filter property in css in img tag and I have used hue rotation property in figure to make these extraordinary images. I have used animationns for text, slideshow designing.
 
 *I have used _[marvel fandom wiki]_ (https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe) for references of every Thanos' character.*
 
