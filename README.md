@@ -23,8 +23,7 @@ Those who want to explore various diffrent interesting facts about Thanos it's n
 ## Making :point_down:
 I have made this using advance level HTML5, CSS3 and Javascript. I have used sliders, row column concepts for designing. I have used animationns for text, slideshow designing.
 
-*I have used _[marvel fandom wiki]_ (https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe) for references of every avengers' characters.*
-
+*I have used _[marvel fandom wiki]_ (https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe) for references of every Thanos' character.*
 
 ## Screenshots :point_down: 
 <div align=”center”>
