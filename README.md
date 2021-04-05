@@ -21,7 +21,7 @@
  :supervillain:
 ## Importance :point_down:
 
-# Making :point_down:
+## Making :point_down:
 IT IS A RESPONSIVE WEBPAGE INCLUDING THANOS DETAILS.CREATED BY HTML,CSS,JS ONLY. I have used slider, card, polaroid, table, figure, row column concepts for designing. I have used animationns for text, slideshow designing.
 
 *I have used _[marvel fandom wiki]_ (https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe) for references of every avengers' characters.*
