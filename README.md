@@ -33,4 +33,5 @@ I have made this using advance level HTML5, CSS3 and Javascript. I have used sli
 <img src="s3.PNG" width="500" height= "250"> 
 <img src="s4.PNG" width="500" height= "250">
 <img src="s5.PNG" width="500" height= "250">
+<img src="s6.PNG" width="500" height= "250">
 </div>
