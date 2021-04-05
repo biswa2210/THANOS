@@ -27,5 +27,9 @@ I have made this using advance level HTML5, CSS3 and Javascript. I have used sli
 
 
 ## Screenshots :point_down: 
-
+<img src="s1.PNG" width="500" height= "250"> 
+<img src="s2.PNG" width="500" height= "250">
+<img src="s3.PNG" width="500" height= "250"> 
+<img src="s4.PNG" width="500" height= "250">
+<img src="s5.PNG" width="500" height= "250">
 
