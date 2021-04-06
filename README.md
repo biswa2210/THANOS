@@ -26,7 +26,7 @@ I have made this using advance level HTML5, CSS3 and Javascript. I have used sli
 *I have used _[marvel fandom wiki]_ (https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe) for references of every Thanos' character.*
 
 ## Screenshots :point_down: 
-<div align=”center”>
+<div align="center">
 <img src="s1.PNG" width="450" height= "250"> 
 <img src="s2.PNG" width="450" height= "250">
 <img src="s3.PNG" width="450" height= "250"> 
