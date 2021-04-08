@@ -20,6 +20,13 @@ I have made this page for those people who want to really know about this superv
 It is really easy to use this page. To see images in sliders user has to click on the arrow. to read about Thanos, Infinity Gaunlett, Infinity stones user just has to click on the images. 
 ## Importance :point_down:
 Those who want to explore various diffrent interesting facts about Thanos it's nice option for them without searching. For fans as well as new comers of avengers' world can use this page very easily. :supervillain:
+## Folder Structure :point_down:
+```bash
+Thanos
+   ├── index.html
+   ├── thanos.css
+   └── thanos.js
+ ```
 ## Making :point_down:
 I have made this using advance level HTML5, CSS3 and Javascript. I have used sliders, row column concepts for designing. I have used filter property in css in img tag and I have used hue rotation property in figure to make these extraordinary images. I have used animations for slideshow designing.
 
