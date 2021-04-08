@@ -1,6 +1,7 @@
+# THANOS:star_struck:
+
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
-# THANOS:star_struck:
 ***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 *Email Id: bbiswa471@gmail.com.*
@@ -34,10 +35,10 @@ I have made this using advance level HTML5, CSS3 and Javascript. I have used sli
 
 ## Screenshots :point_down: 
 <div align="center">
-<img src="s1.PNG" width="450" height= "250"> 
-<img src="s2.PNG" width="450" height= "250">
-<img src="s3.PNG" width="450" height= "250"> 
-<img src="s4.PNG" width="450" height= "250">
-<img src="s5.PNG" width="450" height= "250">
-<img src="s6.PNG" width="450" height= "250">
+<img src="s1.PNG" width="400" height= "250"> 
+<img src="s2.PNG" width="400" height= "250">
+<img src="s3.PNG" width="400" height= "250"> 
+<img src="s4.PNG" width="400" height= "250">
+<img src="s5.PNG" width="400" height= "250">
+<img src="s6.PNG" width="400" height= "250">
 </div>
