@@ -1,4 +1,4 @@
-# THANOS :star_struck: :fist: :rage1: :supervillain: :punch:
+# THANOS :star_struck: :fist: :rage2: :supervillain: :punch:
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
