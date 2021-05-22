@@ -1,5 +1,10 @@
 // When the user scrolls the page, execute myFunction 
 window.onscroll = function() {myFunction()};
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 
 function myFunction() {
   var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
