@@ -22,6 +22,10 @@
 **:heart_eyes:Thanos' fans will love this!!!:heart_eyes:** Thanos is a fictional supervillain appearing in American comic books published by Marvel Comics. He was created by writer-artist Jim Starlin. Thanos was a genocidal warlord from Titan, whose own main objective was to bring stability to the universe, as he believed its massive population would inevitably use up the universe's entire supply of resources and condemn this. To complete this goal, Thanos set about hunting down all the Infinity Stones, as the combined efforts might wipe out half the universe. Thanos soon found himself challenged by the alliances of the entire universe's greatest heroes, which included the Avengers and Guardians of the Galaxy. The story of avengers evolves around him. Thanos is regarded as one of the most powerful beings in the Marvel Universe. This web page contains his details and his rare images with graceful designs. *It is fully responsive.*
 </div>
 
+## THANOS WEB PAGE DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=49olnGW1BD0&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=5">Click here to watch</a>
+
+## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
+
 ***LINK : :point_right:https://biswa2210.github.io/THANOS/***
 
 ## Purpose :point_down:
